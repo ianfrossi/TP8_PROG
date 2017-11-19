@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\42567321\.android\build-cache\1929a04093c90dd487a4d6f3b831078d9c85a049\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="Z:\aa\6IC\prog\TP8\app\build\intermediates\pre-dexed\debug\classes_4535f95aabf824b7a50d4d66f90e315ba79458af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\42567321\.android\build-cache\9482a2898c74a654165c3cb29d79afa826904be9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="Z:\aa\6IC\prog\TP8\app\build\intermediates\pre-dexed\debug\classes_16c29bc0e3f6b2ff442b2ff64009f6da378f7da3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\42567321\.android\build-cache\66112ffc7c8b57a81e141f6c3815cac9c507ae2e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="Z:\aa\6IC\prog\TP8\app\build\intermediates\pre-dexed\debug\classes_b8bbb850a4efb7f6518e89230c58f0939851587c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\42567321\.android\build-cache\2c3281068fddd475f45a10f889cdf727ce915aed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="Z:\aa\6IC\prog\TP8\app\build\intermediates\pre-dexed\debug\classes_2cf4f964003c0238fac283d29d0ca1585cc38adb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\42567321\.android\build-cache\2de6a7347cebbc771965ba3e6ec5b3476ca7188f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="Z:\aa\6IC\prog\TP8\app\build\intermediates\pre-dexed\debug\classes_6220e4269b4b738c5e337f6625318824c826eeb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="Z:\aa\6IC\prog\TP8\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_dce0f5dc4ec87302d879250c45fe5f3f72f02917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Z:\aa\6IC\prog\TP8\app\libs\cocos2d-android.v0.82 (1).jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0bd2a4a7260db13d42c683d262bb5243b3b2ed87">
+        <dex dex="Z:\aa\6IC\prog\TP8\app\build\intermediates\pre-dexed\debug\cocos2d-android.v0.82 (1)_bcb0c22968a9a642081d73a53349baea1b107f0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\42567321\.android\build-cache\6328278e33254b599de052a5c715b18c1798a2b9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="Z:\aa\6IC\prog\TP8\app\build\intermediates\pre-dexed\debug\classes_471a04e3ef3431147928b8626a7d270b96fbefc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\42567321\.gradle\caches\modules-2\files-2.1\com.github.czyzby\noise4j\0.1.0\ab63c39ef53f1c93c2c3efa5224bee497da10fd9\noise4j-0.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab63c39ef53f1c93c2c3efa5224bee497da10fd9">
+        <dex dex="Z:\aa\6IC\prog\TP8\app\build\intermediates\pre-dexed\debug\noise4j-0.1.0_e986ccf9337ebfcebd65cbc66d123106270d57c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="Z:\aa\6IC\prog\TP8\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_749f92721abc8a389255a48e6bc4f467c7c672e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\42567321\.android\build-cache\4780141920f73a7b181b464e680382cecaa85064\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="Z:\aa\6IC\prog\TP8\app\build\intermediates\pre-dexed\debug\classes_f37efa02b693c3787247a68c0564f89c4d92f677.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\42567321\.android\build-cache\ea925dae9dcf66ba17cb3fa166dcf614d5bc9576\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="Z:\aa\6IC\prog\TP8\app\build\intermediates\pre-dexed\debug\classes_1a6be299353312f9923883312dc061a99ec83329.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\42567321\.android\build-cache\52dfda9b3ba8e5306532f031dbc205a4bc1e9cf8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="Z:\aa\6IC\prog\TP8\app\build\intermediates\pre-dexed\debug\classes_45951bdeb076f96ab19917ab1fbb6e42367c33d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\42567321\.android\build-cache\320770101d25cf09e62f2ee923992912399cee64\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="Z:\aa\6IC\prog\TP8\app\build\intermediates\pre-dexed\debug\classes_60fccd6a7f305b15169896511e726b5578d5f518.jar" />
+    </item>
+
+</items>
